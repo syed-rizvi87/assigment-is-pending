@@ -1,0 +1,22 @@
+h1{
+    color: blue ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para{
+   display: flex;
+   justify-content: center;
+    color: rgb(39, 5, 209)    ;
+}
+.oder{
+    color: rgb(213, 52, 194);
+    margin-left: 550px;
+}
+.home{
+color: #222;
+}
+
+
+
+
